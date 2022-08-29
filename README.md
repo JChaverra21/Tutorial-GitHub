@@ -17,7 +17,8 @@ En la parte superior derecha encontrarán la opcion de Sign up, dan click ahí y
     * Luego ingresaras tu contraseña, le das en continuar,
     * Seguido de esto crearas un usuario el cual sea facil de recordar y continuamos
     * Despues solicita si deseas tener actualizaciones constantes en tu correo electronico ya eso lo decides tu y le das en continuar
-    * A continuacion te solicitará la confirmacion del correo por medio de un rompecabezas, una vez verificado le das en click en la opcion Create Account/Crear Cuenta
+    * A continuacion te solicitará la confirmacion del correo por medio de un rompecabezas, una vez verificado le das en click en la
+      opcion Create Account/Crear Cuenta
     * Despues de esto te llegará un codigo a tu correo electronico el cual debes de ingresar y con esto confirmarias la inscripcion.
     
 Nota: Tenga el correo con el que se van a registrar abierto ya que durante el Registro les llegará un codigo de verificacion para continuar con el proceso.
