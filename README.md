@@ -6,10 +6,10 @@ Es una plataforma de desarrollo colectivo, te permite la gestion de proyectos y 
 se integren.
 
 Paso #1
-En su navegador preferido buscar github.com
+* En su navegador preferido buscar github.com
 
 Paso #2
-En la parte superior derecha encontrarán la opcion de Sign up, dan click ahí y les dará la bienvenida 
+* En la parte superior derecha encontrarán la opcion de Sign up, dan click ahí y les dará la bienvenida 
   
   A continuacion:
   
@@ -30,4 +30,4 @@ Paso #3
 * Despues te indica una version gratuita o una version pro, continuas con la version gratuita y ya comienza a realizar una confirmacion y ya tendrías tu cuenta de GitHub creada.
 
 Paso #4
-Para compartir el link de tu repositorio te diriges a la parte superior derecha en el logo de tu perfil le das click, se te desplegarán unas opciones y le darás click en Your repositories/Sus repositorios, te cargará a tu repositorio y en la barra de navegacion copiaras ese link y lo compartiras a quién desees.
+* Para compartir el link de tu repositorio te diriges a la parte superior derecha en el logo de tu perfil le das click, se te desplegarán unas opciones y le darás click en Your repositories/Sus repositorios, te cargará a tu repositorio y en la barra de navegacion copiaras ese link y lo compartiras a quién desees.
