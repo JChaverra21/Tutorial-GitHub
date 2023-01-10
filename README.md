@@ -29,5 +29,16 @@ Paso #3
 * Por ultimo te muestra algunas configuracion especificas o iniciales que el de pronto te recomienda, no es obligatorio lo puedes configurar mas adelante y le das en continuar.
 * Despues te indica una version gratuita o una version pro, continuas con la version gratuita y ya comienza a realizar una confirmacion y ya tendrías tu cuenta de GitHub creada.
 
+# Crear un repositorio
+
+Paso #1
+* Una vez creada y configurada la cuenta de Git Hub, vas a crear un repositorio (dentro de un repositorio puedes subir proyectos y compartirlo para que mas gente se una a trabajar contigo o para visualizar el proyecto), estando en la pestaña principal le das a la vista repositorios o en el icono de tu perfil le das click y se te desplegarán unas opciones, allí eliges repositorios.
+
+Paso #2
+* Ubicados en esta pestaña hay un botón de color verde llamado new (nuevo) le das click y acontinuación le darás un nombre a tu repositorio, la descripción es opcional, de acuerdo a tu necesidad lo dejarás publico o privado y por ultimo agregarás un README file (este es un archivo el cual te perimitirá dar instrucciones de como funciona tu proyecto, un paso a paso) y le das en Crear Repositorio.
+
+Paso #3
+* Una vez creado el repositiorio, para compartir el link de tu repositorio te diriges a la parte superior derecha en el logo de tu perfil le das click, se te desplegarán unas opciones y le darás click en Your repositories/Sus repositorios, te cargará a tu repositorio y en la barra de navegacion copiaras ese link y lo compartiras a quién desees.
+
 Paso #4
-* Para compartir el link de tu repositorio te diriges a la parte superior derecha en el logo de tu perfil le das click, se te desplegarán unas opciones y le darás click en Your repositories/Sus repositorios, te cargará a tu repositorio y en la barra de navegacion copiaras ese link y lo compartiras a quién desees.
+* Para trabajar con el repositorio que acabas de crear es necesario tenerlo de manera local, para esto se debe de clonar el repositorio, como requisito es necesario tener la terminal bash (GIT BASH), teniendo git bash en el equipo lo que se debe de hacer es abrir la terminal bash, luego te diriges a tu repositorio en Git Hub en la opción de código copias el link como si lo fueras a compartir 
