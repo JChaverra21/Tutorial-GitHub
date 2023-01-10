@@ -41,4 +41,7 @@ Paso #3
 * Una vez creado el repositiorio, para compartir el link de tu repositorio te diriges a la parte superior derecha en el logo de tu perfil le das click, se te desplegarán unas opciones y le darás click en Your repositories/Sus repositorios, te cargará a tu repositorio y en la barra de navegacion copiaras ese link y lo compartiras a quién desees.
 
 Paso #4
-* Para trabajar con el repositorio que acabas de crear es necesario tenerlo de manera local, para esto se debe de clonar el repositorio, como requisito es necesario tener la terminal bash (GIT BASH), teniendo git bash en el equipo lo que se debe de hacer es abrir la terminal bash, luego te diriges a tu repositorio en Git Hub en la opción de código copias el link como si lo fueras a compartir 
+* Para trabajar con el repositorio que acabas de crear es necesario tenerlo de manera local, para esto se debe de clonar el repositorio, como requisito es necesario tener la terminal bash (GIT BASH), teniendo git bash en el equipo lo que se debe de hacer es abrir la terminal bash, luego te diriges a tu repositorio en Git Hub en la opción de código copias el link como si lo fueras a compartir y lo pegas en la terminal bash después del comando git clone.
+
+# Colab con Git Hub
+* Puedes guardar tu codigo o proyecto de google Colab en Git Hub para hacerlo te ubicas en Colab le das a la pestaña archivo, luego seleccionas la opción de guardar una copia en Git Hub, como es primera vez aceptas la autorización que te solicita, te abrirá un cuadro seleccionas tu repositorio creado y le das en aceptar.
