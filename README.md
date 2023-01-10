@@ -45,3 +45,5 @@ Paso #4
 
 # Colab con Git Hub
 * Puedes guardar tu codigo o proyecto de google Colab en Git Hub para hacerlo te ubicas en Colab le das a la pestaña archivo, luego seleccionas la opción de guardar una copia en Git Hub, como es primera vez aceptas la autorización que te solicita, te abrirá un cuadro seleccionas tu repositorio creado y le das en aceptar.
+
+* En este link tienes otra opción de como usar Google Colab con Git Hub mediante Google Drive https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d
